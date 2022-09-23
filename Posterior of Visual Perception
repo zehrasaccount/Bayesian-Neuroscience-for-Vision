@@ -31,7 +31,7 @@
       }
     },
     {
-      "cell_type": "code",
+      "cell_type": "code"
       "source": [
         "import numpy as np\n",
         "import matplotlib.pyplot as plt\n",
