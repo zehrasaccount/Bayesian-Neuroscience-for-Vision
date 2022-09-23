@@ -1,4 +1,4 @@
-# Bayesian-Neuroscience-for-Vision
+# Bayesian-Inference-for-Vision
 Calculation of the Posterior
 Question:
 Let us numerically calculate the posterior (1). Suppose the stimulus distribution p(s) is Gaussian with a mean of 20 and a standard deviation of 4. The measurement distribution p(x|s) is Gaussian with a standard deviation σ = 5. A Bayesian observer infers s from an observed measurement xobs = 30. We are now going to calculate the posterior pdf using numerical methods.
