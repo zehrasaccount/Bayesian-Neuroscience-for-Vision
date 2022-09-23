@@ -1,3 +1,4 @@
+Based on: http://www.cns.nyu.edu/malab/bayesianbook.html
 # Bayesian-Inference-for-Vision
 Calculation of the Posterior
 Question:
